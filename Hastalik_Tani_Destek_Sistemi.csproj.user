@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="alan_secim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BeyinveSinirCerrahi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="buton_alan_adlari.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CircleButtonStartPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="denemelikform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dermatoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorForgotPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorLogPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EndokrinolojiveMetabolizma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnfeksiyonHastalıkları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EstetikCerrahi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FizikTedavi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gastroenteroloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenelCerrahi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GözHastalıkları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GöğüsCerrahi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GöğüsHastalıkları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hematoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JinekolojiVeObstetrik .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KalpveDamarCerrahisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kardiyoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KulakBurunBoğaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nefroloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Nöroloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Onkoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrtopediveTravmatoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ovalbtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Psikiyatri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Romatoloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ScrollBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÇocukCerrahisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Üroloji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İç Hastalıkları %28Dahiliye%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
